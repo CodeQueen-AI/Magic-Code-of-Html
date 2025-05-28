@@ -29,7 +29,7 @@ Paragraphs (`<p>`) are used for blocks of text. They help **break up content** i
 
 📖 *Great for articles, descriptions, and any body text.*
 
----
+
 
 ## 7️⃣ **HTML Formatting** 🔤
 
